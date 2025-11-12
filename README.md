@@ -1,3 +1,5 @@
+![3D Profile](profile-3d-contrib/profile-night-view.svg)
+
 # 💫 About Me:
 Hi! I'm a Computer Science student at the University of Western Ontario, currently pursuing an Honors Specialization with Co-op. My academic and professional interests lie at the intersection of:<br><br>🧠 Machine Learning & AI<br>📈 Finance & Quantitative Analysis<br>🖼️ Computer Vision<br>⚙️ Low Latency Programming & TPUs<br><br>🌱 I’m currently learning Node.js<br><br>💬 Outside of Tech, Ask Me About:<br><br>🏋️‍♂️ Weightlifting<br>🎸 Classic & Grunge Rock  <br>🏛️ Classical History <br>🎬 Star Wars, Game of Thrones, Dune, The Witcher, The Elder Scrolls<br>🏈 American Football <br>📊 Stock Market
 
