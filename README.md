@@ -1,3 +1,5 @@
+![hackerBanner-ezgif com-crop](https://github.com/user-attachments/assets/5cb6d05d-3368-4bd3-8518-26c2ad98644d)
+
 ![3D Profile](profile-3d-contrib/profile-night-view.svg)
 
 # 💫 About Me:
